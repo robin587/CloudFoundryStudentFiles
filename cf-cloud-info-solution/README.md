@@ -25,3 +25,5 @@ Code is implemented using Spring MVC Controllers and Spring Cloud APIs.
 Because it is easier to test applications running locally before pushing them to Cloud Foundry, the code quietly returns null information when no Cloud environment is detected. In ths way, you can check the application runs correctly before pushing.
 
 The application uses Spring Boot for configuration and setup.
+
+Cf-cloud-info-slotuion readme update
